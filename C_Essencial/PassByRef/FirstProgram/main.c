@@ -9,6 +9,14 @@
 #include <stdio.h>
 #include <time.h>
 
+typedef struct {
+    int dia;
+    int mes;
+    int ano;
+} Data;
+
+
+
 void structs_example()
 {
     long utcNow = time(NULL);
@@ -46,6 +54,15 @@ int main(int argc, const char * argv[])
     printf("%3.2f BRL is %3.2f USD, %3.2f EUR, %3.2f RUB, %3.2f GBP\n", 100.0, usd, eur, rub, gbp);
     
     structs_example();
+    
+    Data ontem, hoje, amanha;
+    ontem.dia = 16;
+    hoje.dia = 17;
+    amanha.dia = 18;
+    ontem.mes = hoje.mes = amanha.mes = 2;
+    ontem.ano = hoje.ano = amanha.ano = 2014;
+    
+    printf("Hoje %d/%d/%d, Ontem %d/%d/%d, Amanha %d/%d/%d\n", ontem.dia, ontem.mes, ontem.ano, hoje.dia, hoje.mes, hoje.ano, amanha.dia, amanha.mes, amanha.ano);
 
     return 0;
 }
