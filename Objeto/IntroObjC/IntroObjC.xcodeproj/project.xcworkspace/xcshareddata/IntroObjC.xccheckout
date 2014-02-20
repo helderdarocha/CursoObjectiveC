@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B5B805B6-A4E5-4321-AE02-3A6CA638FBDE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>IntroObjC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>613ED26F-F0EB-49C8-9965-E0A764B6CFEB</key>
+		<string>https://github.com/helderdarocha/CursoObjectiveC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Objeto/IntroObjC/IntroObjC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>613ED26F-F0EB-49C8-9965-E0A764B6CFEB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/helderdarocha/CursoObjectiveC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>613ED26F-F0EB-49C8-9965-E0A764B6CFEB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>613ED26F-F0EB-49C8-9965-E0A764B6CFEB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CursoObjectiveC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
